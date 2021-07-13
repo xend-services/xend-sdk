@@ -1,6 +1,6 @@
 # Xend Payment SDK
 
-This is the test Xend Payment Sdk. Like the live one, it allows a user to make payments via the payment methods made available to them by xend. For now, the sdk supports making payments
+This is the live Xend Payment Sdk. Like the live one, it allows a user to make payments via the payment methods made available to them by xend. For now, the sdk supports making payments
 via 
 * Xend (If the sender is already a xend user)
 * Bank account (If the sender or the sendee have reserved an account for this purpose)
